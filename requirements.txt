@@ -1,0 +1,4 @@
+cherami-client>=1.0.2,<2.0.0
+git+https://github.com/bluestann/celery.git@cherami#egg=celery # celery
+git+https://github.com/bluestann/kombu.git@cherami#egg=kombu #kombu
+redis
